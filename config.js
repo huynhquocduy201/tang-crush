@@ -8,7 +8,7 @@ const CONFIG = {
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'thích duyDZ lâu lắm rồi <33',
-    btnNo: 'Không, bạn à :3',
+    btnNo: 'thích concac :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại xem xét tôi <3',
     btnReply: 'Gửi cho tớ <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
